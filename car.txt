@@ -1,0 +1,4 @@
+car model
+automobile model
+year of issue
+power
